@@ -1,4 +1,6 @@
 console.error("Help Me")
+console.warn("Test Me")
+
 var word = 'bird'
 
 console.log(word) // 'bird'
