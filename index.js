@@ -6,3 +6,5 @@ var a = 5,
     c = 3,
     d = 'hello',
     e = 'goodbye';
+
+console.log(a, b, c, d, e)
