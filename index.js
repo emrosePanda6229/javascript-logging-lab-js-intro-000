@@ -8,4 +8,4 @@ console.log(word) // 'bird'
 // assign another value to the variable
 word = 'dog'
 
-console.log(window.word) // 'dog'
+console.log(word) // 'dog'
