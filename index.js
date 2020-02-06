@@ -1,4 +1,4 @@
-// declare the variable
+console.error("Help Me")
 var word = 'bird'
 
 console.log(word) // 'bird'
